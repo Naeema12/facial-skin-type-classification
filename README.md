@@ -1,6 +1,6 @@
 # Facial Skin Type Classification
 
-A deep learning project for classifying facial skin types into three categories:
+A deep learning model for classifying facial skin types into three categories:
 
 - **Dry**
 - **Normal**
