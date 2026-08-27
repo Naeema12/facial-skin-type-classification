@@ -29,6 +29,7 @@ The workflow includes:
 11. Confusion matrix analysis
 12. Sample image prediction
 
+
 ## Model
 
 The main architecture used in this project is **ResNet18**.
